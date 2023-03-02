@@ -1,1 +1,1 @@
-# tbp-gazibrains2020-benchmarks
+# The Benchmarking Results for Turkish Brain Project - Gazi Brains 2020 Dataset 
